@@ -1,0 +1,5 @@
+.venv
+debug_outputs
+test_images
+tests
+__pycache__
